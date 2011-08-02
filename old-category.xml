@@ -1,0 +1,670 @@
+<holder>
+<head>
+<title>Furniture</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Default Description" />
+<meta name="keywords" content="Magento, Varien, E-commerce" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="http://demos.hellothemes.com/skin/frontend/default/hellowired/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://demos.hellothemes.com/skin/frontend/default/hellowired/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://demos.hellothemes.com/js/blank.html';
+    var BLANK_IMG = 'http://demos.hellothemes.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://demos.hellothemes.com/skin/frontend/default/hellowired/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://demos.hellothemes.com/skin/frontend/default/hellowired/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://demos.hellothemes.com/skin/frontend/default/hellowired/css/custom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://demos.hellothemes.com/skin/frontend/default/hellowired/css/print.css" media="print" />
+<script type="text/javascript" src="http://demos.hellothemes.com/js/lib/ccard.js"></script>
+
+<script type="text/javascript" src="http://demos.hellothemes.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/varien/form.js"></script>
+
+<script type="text/javascript" src="http://demos.hellothemes.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/skin/frontend/default/hellowired/js/jquery.latest.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/skin/frontend/default/hellowired/js/hello.jquery.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/skin/frontend/default/hellowired/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/skin/frontend/default/hellowired/js/custom.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://demos.hellothemes.com/skin/frontend/default/hellowired/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://demos.hellothemes.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/skin/frontend/default/hellowired/js/pngfix.js"></script>
+<script type="text/javascript" src="http://demos.hellothemes.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script></head>
+<body class=" catalog-category-view categorypath-furniture-html category-furniture">
+<div class="wrapper">
+<div class="inner-wrapper">
+        <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <div class="header-container">
+    <div class="header">
+                <a href="http://demos.hellothemes.com/hellowired/" title="Magento Commerce" class="logo"><strong>Magento Commerce</strong><img src="http://demos.hellothemes.com/skin/frontend/default/hellowired/images/logo.png" alt="Magento Commerce" /></a>
+
+            
+    <div class="cms-links">
+    <ul>
+    <li class="welcome">
+	Default welcome msg!</li>
+  <li><a href="#">Order Status</a></li>
+<li><a href="#">Customer Service</a></li>
+<li class="last"><a href="#">Find a store</a></li>      </ul>
+
+    </div>
+       
+       <div class="access">
+          <ul class="links">
+                        <li class="first" ><a href="http://demos.hellothemes.com/hellowired/customer/account/" title="My Account" >My Account</a></li>
+                                <li ><a href="http://demos.hellothemes.com/hellowired/wishlist/" title="My Wishlist" >My Wishlist</a></li>
+                                <li ><a href="http://demos.hellothemes.com/hellowired/checkout/cart/" title="My Cart" class="top-link-cart">My Cart</a></li>
+                                <li ><a href="http://demos.hellothemes.com/hellowired/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+
+                                <li class=" last" ><a href="http://demos.hellothemes.com/hellowired/customer/account/login/" title="Log In" >Log In</a></li>
+            </ul>
+       </div>
+    </div>
+	<div id="navigation">
+	            <div class="nav-container">
+    <ul id="nav">
+
+
+                 <li class="home "><a href="http://demos.hellothemes.com/hellowired/"><span>Home</span></a></li> 
+    
+        <li class="level0 nav-1 active parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://demos.hellothemes.com/hellowired/furniture.html">
+<span>Furniture</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://demos.hellothemes.com/hellowired/furniture/living-room.html">
+<span>Living Room</span>
+</a>
+</li><li class="level1 nav-1-2 last">
+<a href="http://demos.hellothemes.com/hellowired/furniture/bedroom.html">
+<span>Bedroom</span>
+
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://demos.hellothemes.com/hellowired/electronics.html">
+<span>Electronics</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="http://demos.hellothemes.com/hellowired/electronics/cell-phones.html">
+<span>Cell Phones</span>
+</a>
+</li><li class="level1 nav-2-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://demos.hellothemes.com/hellowired/electronics/cameras.html">
+<span>Cameras</span>
+
+</a>
+<ul class="level1">
+<li class="level2 nav-2-2-1 first">
+<a href="http://demos.hellothemes.com/hellowired/electronics/cameras/accessories.html">
+<span>Accessories</span>
+</a>
+</li><li class="level2 nav-2-2-2 last">
+<a href="http://demos.hellothemes.com/hellowired/electronics/cameras/digital-cameras.html">
+<span>Digital Cameras</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-3 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers.html">
+<span>Computers</span>
+
+</a>
+<ul class="level1">
+<li class="level2 nav-2-3-3 first">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers/build-your-own.html">
+<span>Build Your Own</span>
+</a>
+</li><li class="level2 nav-2-3-4">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers/laptops.html">
+<span>Laptops</span>
+</a>
+</li><li class="level2 nav-2-3-5">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers/hard-drives.html">
+<span>Hard Drives</span>
+</a>
+
+</li><li class="level2 nav-2-3-6">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers/monitors.html">
+<span>Monitors</span>
+</a>
+</li><li class="level2 nav-2-3-7">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers/ram-memory.html">
+<span>RAM / Memory</span>
+</a>
+</li><li class="level2 nav-2-3-8">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers/cases.html">
+<span>Cases</span>
+</a>
+</li><li class="level2 nav-2-3-9">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers/processors.html">
+
+<span>Processors</span>
+</a>
+</li><li class="level2 nav-2-3-10 last">
+<a href="http://demos.hellothemes.com/hellowired/electronics/computers/peripherals.html">
+<span>Peripherals</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-3 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://demos.hellothemes.com/hellowired/apparel.html">
+<span>Apparel</span>
+</a>
+
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="http://demos.hellothemes.com/hellowired/apparel/shirts.html">
+<span>Shirts</span>
+</a>
+</li><li class="level1 nav-3-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://demos.hellothemes.com/hellowired/apparel/shoes.html">
+<span>Shoes</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-3-2-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://demos.hellothemes.com/hellowired/apparel/shoes/mens.html">
+<span>Mens</span>
+</a>
+
+<ul class="level2">
+<li class="level3 nav-3-2-1-1 first last">
+<a href="http://demos.hellothemes.com/hellowired/apparel/shoes/mens/test-level.html">
+<span>Test level</span>
+</a>
+</li>
+</ul>
+</li><li class="level2 nav-3-2-2 last">
+<a href="http://demos.hellothemes.com/hellowired/apparel/shoes/womens.html">
+<span>Womens</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-3-3 last">
+<a href="http://demos.hellothemes.com/hellowired/apparel/hoodies.html">
+
+<span>Hoodies</span>
+</a>
+</li>
+</ul>
+</li>    </ul>
+</div>
+       <form id="search_mini_form" action="http://demos.hellothemes.com/hellowired/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Search</label>
+        <input id="search" type="text" name="q" value="" class="input-text" />
+
+   <input type="image" class="search_btn" src="http://demos.hellothemes.com/skin/frontend/default/hellowired/images/icons/search_ico.gif" value="Go"/>        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+            searchForm.initAutocomplete('http://demos.hellothemes.com/hellowired/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+        <div class="clearfix"></div>
+    </div>
+    <!-- <div class="quick-access">
+                <p class="welcome-msg"></p>
+     
+    </div> -->
+    <div class="top-bar"><div class="breadcrumbs">
+
+    <ul>
+                    <li class="home">
+                            <a href="http://demos.hellothemes.com/hellowired/" title="Go to Home Page">Home</a>
+                                        <span>/ </span>
+                        </li>
+                    <li class="category10">
+                            <strong>Furniture</strong>
+
+                                    </li>
+            </ul>
+</div></div>    </div>
+        <div class="main-container col3-layout">
+            <div class="main">
+                                                 <div class="col-left sidebar"><div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://demos.hellothemes.com/hellowired/furniture/living-room.html">Living Room</a> (4)
+                    </li>
+
+                                                                            <li>
+                        <a href="http://demos.hellothemes.com/hellowired/furniture/bedroom.html">Bedroom</a> (2)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+
+</div>
+<div class="block block-banner">
+    <div class="block-content">
+                    <a href="http://demos.hellothemes.com/hellowired/checkout/cart/" title="Our customer service is available 24/7. Call us at (555) 555-0123.">
+                    <img src="http://demos.hellothemes.com/skin/frontend/default/default/images/media/col_left_callout.jpg" alt="Our customer service is available 24/7. Call us at (555) 555-0123." />
+                </a>
+            </div>
+</div>
+<div class="block block-tags">
+    <div class="block-title">
+        <strong><span>Popular Tags</span></strong>
+
+    </div>
+    <div class="block-content">
+        <ul class="tags-list">
+                            <li><a href="http://demos.hellothemes.com/hellowired/tag/product/list/tagId/113/" style="font-size:75%;">dresser</a></li>
+                    </ul>
+        <div class="actions">
+            <a href="http://demos.hellothemes.com/hellowired/tag/list/">View All Tags</a>
+        </div>
+
+    </div>
+</div>
+</div>
+                    <div class="col-main">
+                                                <div class="page-title category-title">
+        <h1>Furniture</h1>
+</div>
+
+
+    <p class="category-image"><img src="http://demos.hellothemes.com/media/catalog/category/furniture.jpg" alt="Furniture" title="Furniture" /></p>
+
+    <div class="category-products">
+    <div class="toolbar">
+    <div class="pager">
+        <p class="amount">
+                            <strong>6 Item(s)</strong>
+                    </p>
+
+        <div class="limiter">
+            <label>Show</label>
+
+            <select onchange="setLocation(this.value)">
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?limit=9" selected="selected">
+                    9                </option>
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?limit=15">
+                    15                </option>
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?limit=30">
+                    30                </option>
+
+                        </select> per page        </div>
+
+        
+    
+    
+    
+    
+    
+
+    </div>
+
+        <div class="sorter">
+                <p class="view-mode">
+                                    <label>View as:</label>
+                                                <strong title="Grid" class="grid">Grid</strong> 
+
+                                                                <a href="http://demos.hellothemes.com/hellowired/furniture.html?mode=list" title="List" class="list">List</a> 
+                                                </p>
+            
+        <div class="sort-by">
+            <label>Sort By</label>
+            <select onchange="setLocation(this.value)">
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?dir=asc&amp;order=position" selected="selected">
+                    Position                </option>
+
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?dir=asc&amp;order=name">
+                    Name                </option>
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?dir=asc&amp;order=price">
+                    Price                </option>
+                        </select>
+                            <a href="http://demos.hellothemes.com/hellowired/furniture.html?dir=desc&amp;order=position" title="Set Descending Direction"><img src="http://demos.hellothemes.com/skin/frontend/default/hellowired/images/i_asc_arrow.gif" alt="Set Descending Direction" class="v-middle" /></a>
+                    </div>
+    </div>
+
+    </div>
+        
+    
+                            <ul class="products-grid">
+                    <li class="item first">
+                <a href="http://demos.hellothemes.com/hellowired/furniture/akio-dresser.html" title="Akio Dresser" class="product-image"><img src="http://demos.hellothemes.com/media/catalog/product/cache/32/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/a/k/akio-dresser.jpg" width="170" height="170" alt="Akio Dresser" /></a>
+                <h2 class="product-name"><a href="http://demos.hellothemes.com/hellowired/furniture/akio-dresser.html" title="Akio Dresser">Akio Dresser</a></h2>
+                                                                
+
+        
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-41">
+                    <span class="price">$399.99</span>                </span>
+
+                        
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://demos.hellothemes.com/hellowired/checkout/cart/add/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/product/41/')"><span><span>Add to Cart</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://demos.hellothemes.com/hellowired/wishlist/index/add/product/41/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://demos.hellothemes.com/hellowired/catalog/product_compare/add/product/41/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/" class="link-compare">Add to Compare</a></li>
+
+                                            </ul>
+                </div>
+            </li>
+                                    <li class="item">
+                <a href="http://demos.hellothemes.com/hellowired/furniture/barcelona-bamboo-platform-bed.html" title="Barcelona Bamboo Platform Bed" class="product-image"><img src="http://demos.hellothemes.com/media/catalog/product/cache/32/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/b/a/barcelona-bamboo-platform-bed.jpg" width="170" height="170" alt="Barcelona Bamboo Platform Bed" /></a>
+                <h2 class="product-name"><a href="http://demos.hellothemes.com/hellowired/furniture/barcelona-bamboo-platform-bed.html" title="Barcelona Bamboo Platform Bed">Barcelona Bamboo Platform Bed</a></h2>
+                                                                
+
+        
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-42">
+
+                    <span class="price">$2,299.00</span>                </span>
+                        
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://demos.hellothemes.com/hellowired/checkout/cart/add/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/product/42/')"><span><span>Add to Cart</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://demos.hellothemes.com/hellowired/wishlist/index/add/product/42/" class="link-wishlist">Add to Wishlist</a></li>
+
+                                                                            <li><span class="separator">|</span> <a href="http://demos.hellothemes.com/hellowired/catalog/product_compare/add/product/42/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/" class="link-compare">Add to Compare</a></li>
+                                            </ul>
+                </div>
+            </li>
+                                    <li class="item last">
+                <a href="http://demos.hellothemes.com/hellowired/furniture/ottoman.html" title="Ottoman" class="product-image"><img src="http://demos.hellothemes.com/media/catalog/product/cache/32/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/o/t/ottoman.jpg" width="170" height="170" alt="Ottoman" /></a>
+                <h2 class="product-name"><a href="http://demos.hellothemes.com/hellowired/furniture/ottoman.html" title="Ottoman">Ottoman</a></h2>
+
+                                                                
+
+        
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-51">
+                    <span class="price">$299.99</span>                </span>
+                        
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://demos.hellothemes.com/hellowired/checkout/cart/add/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/product/51/')"><span><span>Add to Cart</span></span></button>
+                                        <ul class="add-to-links">
+
+                                                    <li><a href="http://demos.hellothemes.com/hellowired/wishlist/index/add/product/51/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://demos.hellothemes.com/hellowired/catalog/product_compare/add/product/51/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/" class="link-compare">Add to Compare</a></li>
+                                            </ul>
+                </div>
+            </li>
+                </ul>
+                                <ul class="products-grid">
+
+                    <li class="item first">
+                <a href="http://demos.hellothemes.com/hellowired/furniture/chair.html" title="Chair" class="product-image"><img src="http://demos.hellothemes.com/media/catalog/product/cache/32/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/c/h/chair.jpg" width="170" height="170" alt="Chair" /></a>
+                <h2 class="product-name"><a href="http://demos.hellothemes.com/hellowired/furniture/chair.html" title="Chair">Chair</a></h2>
+                                                                
+
+        
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-52">
+                    <span class="price">$129.99</span>                </span>
+                        
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://demos.hellothemes.com/hellowired/checkout/cart/add/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/product/52/')"><span><span>Add to Cart</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://demos.hellothemes.com/hellowired/wishlist/index/add/product/52/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://demos.hellothemes.com/hellowired/catalog/product_compare/add/product/52/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/" class="link-compare">Add to Compare</a></li>
+                                            </ul>
+
+                </div>
+            </li>
+                                    <li class="item">
+                <a href="http://demos.hellothemes.com/hellowired/furniture/couch.html" title="Couch" class="product-image"><img src="http://demos.hellothemes.com/media/catalog/product/cache/32/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/c/o/couch.jpg" width="170" height="170" alt="Couch" /></a>
+                <h2 class="product-name"><a href="http://demos.hellothemes.com/hellowired/furniture/couch.html" title="Couch">Couch</a></h2>
+                                                                
+
+        
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-53">
+                    <span class="price">$599.99</span>                </span>
+
+                        
+        </div>
+
+                <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://demos.hellothemes.com/hellowired/checkout/cart/add/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/product/53/')"><span><span>Add to Cart</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://demos.hellothemes.com/hellowired/wishlist/index/add/product/53/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://demos.hellothemes.com/hellowired/catalog/product_compare/add/product/53/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/" class="link-compare">Add to Compare</a></li>
+
+                                            </ul>
+                </div>
+            </li>
+                                    <li class="item last">
+                <a href="http://demos.hellothemes.com/hellowired/furniture/magento-red-furniture-set.html" title="Magento Red Furniture Set" class="product-image"><img src="http://demos.hellothemes.com/media/catalog/product/cache/32/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/m/a/magento-red-furniture-set.jpg" width="170" height="170" alt="Magento Red Furniture Set" /></a>
+                <h2 class="product-name"><a href="http://demos.hellothemes.com/hellowired/furniture/magento-red-furniture-set.html" title="Magento Red Furniture Set">Magento Red Furniture Set</a></h2>
+                                                                
+
+                <div class="price-box">
+            <p class="minimal-price">
+
+                <span class="price-label">Starting at:</span>
+                                                    <span class="price" id="product-minimal-price-54">
+                    $129.99                </span>
+                            </p>
+        </div>
+                    <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://demos.hellothemes.com/hellowired/checkout/cart/add/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/product/54/')"><span><span>Add to Cart</span></span></button>
+
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://demos.hellothemes.com/hellowired/wishlist/index/add/product/54/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://demos.hellothemes.com/hellowired/catalog/product_compare/add/product/54/uenc/aHR0cDovL2RlbW9zLmhlbGxvdGhlbWVzLmNvbS9oZWxsb3dpcmVkL2Z1cm5pdHVyZS5odG1s/" class="link-compare">Add to Compare</a></li>
+                                            </ul>
+                </div>
+            </li>
+                </ul>
+
+                        <script type="text/javascript">decorateGeneric($$('ul.products-grid'), ['odd','even','first','last'])</script>
+    
+    <div class="toolbar-bottom">
+        <div class="toolbar">
+    <div class="pager">
+        <p class="amount">
+                            <strong>6 Item(s)</strong>
+                    </p>
+
+        <div class="limiter">
+            <label>Show</label>
+            <select onchange="setLocation(this.value)">
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?limit=9" selected="selected">
+                    9                </option>
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?limit=15">
+                    15                </option>
+
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?limit=30">
+                    30                </option>
+                        </select> per page        </div>
+
+        
+    
+    
+    
+    
+    
+
+    </div>
+
+        <div class="sorter">
+                <p class="view-mode">
+
+                                    <label>View as:</label>
+                                                <strong title="Grid" class="grid">Grid</strong> 
+                                                                <a href="http://demos.hellothemes.com/hellowired/furniture.html?mode=list" title="List" class="list">List</a> 
+                                                </p>
+            
+        <div class="sort-by">
+            <label>Sort By</label>
+            <select onchange="setLocation(this.value)">
+
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?dir=asc&amp;order=position" selected="selected">
+                    Position                </option>
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?dir=asc&amp;order=name">
+                    Name                </option>
+                            <option value="http://demos.hellothemes.com/hellowired/furniture.html?dir=asc&amp;order=price">
+                    Price                </option>
+                        </select>
+
+                            <a href="http://demos.hellothemes.com/hellowired/furniture.html?dir=desc&amp;order=position" title="Set Descending Direction"><img src="http://demos.hellothemes.com/skin/frontend/default/hellowired/images/i_asc_arrow.gif" alt="Set Descending Direction" class="v-middle" /></a>
+                    </div>
+    </div>
+    </div>
+    </div>
+</div>
+                    </div>
+                    <div class="col-right sidebar"><div class="block block-cart">
+        <div class="block-title">
+
+        <strong><span>My Cart</span></strong>
+    </div>
+    <div class="block-content">
+                        <p class="empty">You have no items in your shopping cart.</p>
+        </div>
+</div>
+<div class="block block-list block-compare">
+    <div class="block-title">
+        <strong><span>Compare Products                    </span></strong>
+
+    </div>
+    <div class="block-content">
+            <p class="empty">You have no items to compare.</p>
+        </div>
+</div>
+<div class="block block-banner">
+    <div class="block-content">
+                    <img src="http://demos.hellothemes.com/skin/frontend/default/default/images/media/col_right_callout.jpg" title="Keep your eyes open for our special Back to School items and save A LOT!" alt="Keep your eyes open for our special Back to School items and save A LOT!" />
+            </div>
+
+</div>
+<div class="paypal-logo">
+    <a href="#" title="Additional Options" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','paypal','width=600,height=350,left=0,top=0,location=no,status=yes,scrollbars=yes,resizable=yes'); return false;"><img src="https://www.paypalobjects.com/en_US/i/bnr/bnr_nowAccepting_150x60.gif" alt="Additional Options" /></a>
+</div>
+</div>
+                </div>
+                                    </div>
+        <div class="footer-container">
+    <div class="footer">
+        
+        <div class="footer-links">
+        
+  <div class="footer-block first">
+
+<h6>Customer Service</h6>
+<ul>
+<li><a href="http://demos.hellothemes.com/hellowired/about-magento-store/">About Us</a></li>
+<li><a href="http://demos.hellothemes.com/hellowired/our-company/">Our company</a></li>
+<li><a href="http://demos.hellothemes.com/hellowired/catalog/seo_sitemap/category/">Sitemap</a></li>
+</ul>
+ 
+</div>
+<div class="footer-block">
+<h6>Customer Info</h6>
+<ul>
+<li><a href="http://demos.hellothemes.com/hellowired/contacts/">Contact Us</a></li>
+
+<li><a href="http://demos.hellothemes.com/hellowired/price-matching/">Price matching</a></li>
+<li><a href="http://demos.hellothemes.com/hellowired/testimonials/">Testimonials</a></li>
+</ul>
+</div>
+
+<div class="footer-block">
+<h6>Corporate</h6>
+<ul>
+<li><a href="http://demos.hellothemes.com/hellowired/privacy/">Privacy Policy</a></li>
+<li><a href="http://demos.hellothemes.com/hellowired/safe-shopping/">Safe &amp; secure shopping</a></li>
+
+<li><a href="http://demos.hellothemes.com/hellowired/terms/">Terms &amp; conditions</a></li>
+</ul>
+
+</div>
+
+<div class="footer-block last">
+<h6>Information</h6>
+
+<ul>
+<li><a href="http://demos.hellothemes.com/hellowired/delivery/">Delivery information</a></li>
+<li><a href="http://demos.hellothemes.com/hellowired/guarantee/">Satisfaction guarantee</a></li>
+
+<li><a href="http://demos.hellothemes.com/hellowired/returns/">Returns policy</a></li>
+</ul>
+</div>  
+        <div class="payment">
+        <img src="http://demos.hellothemes.com/skin/frontend/default/hellowired/images/creditcards.gif" alt="We Accept all Major Credit Cards" />
+        </div>
+            
+        
+                                                <!--  -->
+        </div>
+       
+    </div>
+ 
+           
+</div>
+
+ <div class="copyright">
+        <div class="f-left">
+            <address>  2008 Magento Demo Store. All Rights Reserved.</address></div>
+            <div class="f-right">
+            <a href="http://www.hellothemes.com/" title="Magento Templates">Magento Templates</a> by <a href="http://www.hellothemes.com/" title="Magento Themes"><img src="http://demos.hellothemes.com/skin/frontend/default/hellowired/images/media/hellothemes.png" alt="Magento Themes" /></a>
+            </div>
+
+            <div style="clear:both;"></div>
+            </div>
+  
+            </div>
+    </div>
+</div>
+</body>
+</holder>

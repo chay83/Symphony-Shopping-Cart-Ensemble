@@ -22,3 +22,24 @@
 [submodule "extensions/xssfilter"]
 	path = extensions/xssfilter
 	url = git://github.com/symphonycms/xssfilter.git
+[submodule "extensions/textboxfield"]
+	path = extensions/textboxfield
+	url = http://github.com/rowan-lewis/textboxfield.git
+[submodule "extensions/order_entries"]
+	path = extensions/order_entries
+	url = http://github.com/nickdunn/order_entries.git
+[submodule "extensions/symphony-address_field"]
+	path = extensions/symphony-address_field
+	url = http://github.com/jeremyboles/symphony-address_field.git
+[submodule "extensions/symquery"]
+	path = extensions/symquery
+	url = http://github.com/rowan-lewis/symquery.git
+[submodule "extensions/nestedcats"]
+	path = extensions/nestedcats
+	url = https://github.com/andrrr/nestedcats.git
+[submodule "extensions/referencelink"]
+	path = extensions/referencelink
+	url = https://github.com/czheng/referencelink.git
+[submodule "workspace/assets/image-jit"]
+	path = workspace/assets/image-jit
+	url = https://github.com/rowan-lewis/image-jit.git
