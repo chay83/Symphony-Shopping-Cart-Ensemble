@@ -43,3 +43,12 @@
 [submodule "workspace/assets/image-jit"]
 	path = workspace/assets/image-jit
 	url = https://github.com/rowan-lewis/image-jit.git
+[submodule "extensions/field_metakeys"]
+	path = extensions/field_metakeys
+	url = https://github.com/brendo/field_metakeys.git
+[submodule "extensions/members"]
+	path = extensions/members
+	url = https://github.com/symphonycms/members
+[submodule "extensions/entity_diagram"]
+	path = extensions/entity_diagram
+	url = https://github.com/nickdunn/entity_diagram

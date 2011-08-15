@@ -95,8 +95,8 @@
 
 			$xml = new XMLelement('shopping-cart');
 
-			if($_GET['cart-action']){
-				$action = $_GET['cart-action'];
+			if($_REQUEST['cart-action']){
+				$action = $_REQUEST['cart-action'];
 			} else {
 				list($action) = array_keys($_POST['cart-action']);
 			}

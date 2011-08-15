@@ -19,7 +19,9 @@ jQuery(document).ready(function() {
 });
 
 $(document).ready(function() { 
+
     $('ul.sf-menu').superfish(); 
+    //$('#product_addtocart_form').addToCart();
 });
 
  $(document).ready(function() {

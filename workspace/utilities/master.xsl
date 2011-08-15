@@ -90,7 +90,7 @@
 		<link rel="apple-touch-icon" href="{$root}/apple-touch-icon.png" />
 
 		<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
-		<script src="{$workspace}/assets/js/libs/modernizr.min.js"></script>
+		<script src="{$workspace}/assets/js/modernizr.js"></script>
 	</xsl:template>
 
 	<xsl:template match="data" mode="includes">
@@ -104,6 +104,7 @@
 	<xsl:template match="/" mode="footer-includes">
 		<!-- Grab Google CDN's jQuery. -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+		<script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 		<script type="text/javascript" src="{$workspace}/assets/js/hello.jquery.js"></script>
 		<script type="text/javascript" src="{$workspace}/assets/js/jquery.cycle.all.js"></script>
 		<script type="text/javascript" src="{$workspace}/assets/js/superfish.js"></script>
@@ -149,7 +150,7 @@
 			<div class="form-search">
 				<label for="search">Search</label>
 				<input id="search" type="text" name="q" value="" class="input-text"/>
-				<input type="image" class="search_btn" src="/workspace/assets/images/icons/search_ico.gif" value="Go"/>
+				<input type="image" class="search_btn" src="{$workspace}/assets/images/icons/search_ico.gif" value="Go"/>
 				<div id="search_autocomplete" class="search-autocomplete"></div>
 			</div>
 		</form>
@@ -175,7 +176,12 @@
 						<a href="{$root}/wishlist/" title="My Wishlist">My Wishlist</a>
 					</li>
 					<li>
-						<a href="{$root}/checkout/cart/" title="My Cart" class="top-link-cart">My Cart</a>
+						<a href="{$root}/cart/" title="My Cart" class="top-link-cart">My Cart 
+							<xsl:if test="shopping-cart/item">
+							  (<xsl:value-of select="sum(shopping-cart/item/@num)"  /><xsl:text> Item</xsl:text>
+							  <xsl:if test="sum(shopping-cart/item/@num) &gt; 1">s</xsl:if>)
+							</xsl:if>
+						</a>
 					</li>
 					<li>
 						<a href="{$root}/checkout/" title="Checkout" class="top-link-checkout">Checkout</a>
@@ -258,7 +264,7 @@
 					</ul>
 				</div>
 				<div class="payment">
-					<img src="{$root}/assets/images/creditcards.gif" alt="We Accept all Major Credit Cards"/>
+					<img src="{$workspace}/assets/images/creditcards.gif" alt="We Accept all Major Credit Cards"/>
 				</div>
 			</div>
 		</div>
@@ -284,6 +290,10 @@
 
 				<xsl:apply-templates select="data" mode="title" />
 				<xsl:apply-templates select="data" mode="descriptions" />
+				<script>
+					var ROOT = '<xsl:value-of select="$root"  />',
+					ASSETS = '<xsl:value-of select="$workspace"  />/assets';				
+				</script>
 				<xsl:apply-templates select="data" mode="includes" />
 			</head>
 			<body>
@@ -297,7 +307,7 @@
 								<xsl:apply-templates select="data" mode="header-container" />
 								
 							</div>
-							<div class="main-container">
+							<div class="main-container col1-layout">
 								<xsl:apply-templates select='data' mode='content' />
 							</div>
 							<div class="footer-container">
@@ -308,7 +318,7 @@
 									<address>  2008 Magento Demo Store. All Rights Reserved.</address>
 								</div>
 								<div class="f-right">
-									<a href="http://www.hellothemes.com/" title="Magento Templates">Magento Templates</a> by <a href="http://www.hellothemes.com/" title="Magento Themes"><img src=" /workspace/assets/images/media/hellothemes.png" alt="Magento Themes"/></a>
+									<a href="http://www.hellothemes.com/" title="Magento Templates">Magento Templates</a> by <a href="http://www.hellothemes.com/" title="Magento Themes"><img src="{$workspace}/assets/images/media/hellothemes.png" alt="Magento Themes"/></a>
 								</div>
 								<div style="clear:both;"/>
 							</div>					

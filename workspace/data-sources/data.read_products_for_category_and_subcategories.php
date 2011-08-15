@@ -20,7 +20,12 @@
 		public $dsParamINCLUDEDELEMENTS = array(
 				'title: formatted',
 				'image',
-				'price: formatted'
+				'price: formatted',
+				'featured',
+				'categories',
+				'tags',
+				'order',
+				'quick-description: formatted'
 		);
 
 
@@ -36,8 +41,8 @@
 					'name' => 'Chay Palmer',
 					'website' => 'http://chay.sites.randb.com.au/wired',
 					'email' => 'chay@randb.com.au'),
-				'version' => '1.0',
-				'release-date' => '2011-06-06T04:02:59+00:00'
+				'version' => 'Symphony 2.2.2',
+				'release-date' => '2011-08-02T02:07:40+00:00'
 			);
 		}
 

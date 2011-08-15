@@ -42,10 +42,8 @@
 	
 	<xsl:template match="entry" mode='product-list-grid'>
 		<li class="item first">
-			<a href="/furniture/akio-dresser.html" title="{image}" class="product-image">
-				<xsl:apply-templates select="image" mode="images-single">
-					<xsl:with-param name="filter" select="'grid-list'" />
-				</xsl:apply-templates>
+			<a href="{title/@handle}" title="{title}" class="product-image">
+				<img src="{$root}/image/2/170/170/5{image/@path}/{image/filename}" />
 			</a>
 			<h2 class="product-name">
 				<a href="{title/@handle}" title="{title}"><xsl:value-of select="title"  /></a>
@@ -56,10 +54,14 @@
 				</span>
 			</div>
 			<div class="actions">
-				<button type="button" title="Add to Cart" class="button btn-cart" data-product-id="{@id}" data-url="{$root}/ajax/add-to-cart/{@id}/1/" >
-					<span><span>Add to Cart</span></span>
-				</button>
-				<ul class="add-to-links">
+				<form method="post" class="add-cart">
+					<input type="hidden" name="id" value="{@id}"/>
+					<input type="hidden" name="cart-action" value="add" />
+					<button class="button btn-cart" title="Add to Cart" type="submit">
+						<span><span>Add to Cart</span></span>
+					</button>
+				</form>
+				<!--<ul class="add-to-links">
 					<li>
 						<a href="/wishlist/index/add/product/41/" class="link-wishlist">Add to Wishlist</a>
 					</li>
@@ -67,7 +69,7 @@
 						<span class="separator">|</span>
 						<a href="#" class="link-compare">Add to Compare</a>
 					</li>
-				</ul>
+				</ul>-->
 			</div>
 		</li>
 	</xsl:template>
